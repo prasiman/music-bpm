@@ -7,7 +7,7 @@ Typescript library for finding out tempo (BPM) of a song and beat tracking. It u
 Using npm:
 
 ```sh
-npm i @hvafth/music-bpm
+npm i music-bpm
 ```
 
 In a browser
