@@ -1,0 +1,15 @@
+{
+  "include": ["src"],
+  "exclude": ["node_modules", "**/*.spec.ts"],
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "target": "ES2015",
+    "module": "ES2015",
+    "declaration": true,    
+    "emitDeclarationOnly": true,
+    "outDir": "dist",
+    "declarationMap": false
+  }
+}
